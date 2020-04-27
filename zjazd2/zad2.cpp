@@ -38,13 +38,13 @@ int main()
 	{
 	    for ( int k = 0; k < i; k++ )
 	    {
-	    	cout << "+";
+	    	cout << " ";
 	    }
 	    cout << "^";
 
 	    for( int j = 0 ; j <= x-5; j++ )
 	    {
-	    	cout << "+";
+	    	cout << " ";
 	    }
 	    x-=2;
 
